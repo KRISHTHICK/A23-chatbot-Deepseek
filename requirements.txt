@@ -1,0 +1,7 @@
+ollama run deepseek-coder
+ollama run gemma
+ollama run llama3
+
+pip install streamlit langchain ollama
+
+streamlit run your_script.py
